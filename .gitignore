@@ -3,6 +3,7 @@
 __pycache__/
 .godot/
 *.uid
+*.zip
 
 # Ignore generated/local validation output.
 reports/*
