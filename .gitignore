@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+__pycache__/
+.godot/
+*.uid
+
+# Ignore generated/local validation output.
+reports/*
+
+assets/source/*.import
+assets/sprites/*.import
+assets/sprites/**/*.import
+assets/sprites/previews/*.import
+spec/*.png.import
+/tools/
+/Tools/

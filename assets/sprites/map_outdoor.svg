@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1152" viewBox="0 0 2048 1152">
+<rect width="2048" height="1152" fill="#7aa85a"/>
+<path d="M0 270 Q330 180 650 300 T1300 245 T2048 330 L2048 520 Q1600 445 1250 530 T560 510 T0 555Z" fill="#a86f45"/>
+<path d="M0 830 Q350 720 760 835 T1450 790 T2048 860 L2048 1010 Q1500 955 1110 1030 T370 1000 T0 1035Z" fill="#a86f45"/>
+<path d="M420 0 Q500 240 435 470 T510 780 T430 1152" fill="none" stroke="#b77d50" stroke-width="150"/>
+<path d="M1530 0 Q1450 210 1540 430 T1490 750 T1580 1152" fill="none" stroke="#b77d50" stroke-width="120"/>
+<path d="M750 500 C930 420 1080 450 1200 590 C1100 730 920 760 780 650Z" fill="#4f95a4" stroke="#284e57" stroke-width="16"/>
+<path d="M105 110 H650 M1390 110 H1930 M90 1080 H620 M1430 1080 H1950" stroke="#5d4939" stroke-width="18" stroke-dasharray="45 25"/>
+<g fill="#4b743f"><circle cx="160" cy="190" r="48"/><circle cx="330" cy="150" r="35"/><circle cx="1830" cy="205" r="50"/><circle cx="1700" cy="960" r="44"/><circle cx="250" cy="930" r="42"/></g>
+<g fill="#d7b866"><circle cx="980" cy="180" r="12"/><circle cx="1120" cy="250" r="10"/><circle cx="640" cy="920" r="13"/><circle cx="1370" cy="930" r="11"/></g>
+</svg>
