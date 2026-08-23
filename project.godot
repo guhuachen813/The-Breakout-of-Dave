@@ -25,6 +25,10 @@ window/size/viewport_height=1080
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
+[gui]
+
+theme/custom_font="uid://58tt3phdyedr"
+
 [input]
 
 move_left={
@@ -71,3 +75,4 @@ skill_burst={
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
