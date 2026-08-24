@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/戴夫突围_V0.2（网页版）/index.html"
     }
   ]
 }
